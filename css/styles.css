@@ -1,0 +1,19 @@
+.container {
+    display: flex;
+    flex-flow: wrap;
+    justify-content: space-between;
+    align-items: center;
+    align-content: center;
+    
+}
+
+.box {
+    padding: 30px;
+    margin: 10px;
+    background-color: chocolate;
+    color: #ffffff;
+
+    /* width: 100px; */
+
+
+}
